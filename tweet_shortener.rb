@@ -1,4 +1,3 @@
-# Write your code here.
 def word_substituter(phrase)
   subs = { " 2 " => /\st[wo]?o\s/, " 2. " => /\st[wo]?o\.\s/, " 2, " => /\st[wo]?o\,\s/, " 2? " => /\st[wo]?o\?\s/, " 2! " => /\st[wo]?o\!\s/, 
     " u " => /\syou\s/, " u. " => /\syou\.\s/, " u, " => /\syou\,\s/, " u? " => /\syou\?\s/, " u! " => /\syou\!\s/, 

@@ -73,5 +73,6 @@ def shortened_tweet_truncator(tweet)
     new_tweet = tweet
   end
   new_tweet
+  
 end
 

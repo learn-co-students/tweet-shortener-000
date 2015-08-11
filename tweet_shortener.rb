@@ -68,3 +68,5 @@ array = tweet.scan(/[a-zA-z\s\w\W]/)
   end
   return tweet
 end
+
+#oops... did I add that!
